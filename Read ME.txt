@@ -1,0 +1,2 @@
+These two folders include two python programs both named "main.py". 
+They load csv data from resource folders in each of them and generate analyst as txt file.
